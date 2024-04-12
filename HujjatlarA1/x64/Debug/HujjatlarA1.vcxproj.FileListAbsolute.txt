@@ -1,0 +1,4 @@
+C:\Users\User\Source\Repos\HujjatlarA1\HujjatlarA1\x64\Debug\HujjatlarA1.vcxproj.AssemblyReference.cache
+C:\Users\User\Source\Repos\HujjatlarA1\HujjatlarA1\x64\Debug\HujjatlarA1.MyForm.resources
+C:\Users\User\Source\Repos\HujjatlarA1\HujjatlarA1\x64\Debug\HujjatlarA1.vcxproj.GenerateResource.cache
+C:\Users\User\Source\Repos\HujjatlarA1\HujjatlarA1\x64\Debug\HujjatlarA1.MyForm1.resources
